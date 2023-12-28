@@ -1,0 +1,25 @@
+20230911	20:43:48	3dd858bd-3d85-49b3-8a40-7e8b2e7fc808	Error: ENOENT: no such file or directory, stat 'C:\Users\gemma\OneDrive\Desktop\Node\express_middleware\routes\views\index.html'
+20230911	20:43:49	c8bb9d57-2785-42ab-8213-c25b8a7dff78	Error: ENOENT: no such file or directory, stat 'C:\Users\gemma\OneDrive\Desktop\Node\express_middleware\routes\views\index.html'
+20230911	21:03:41	dda1d1dc-98fe-4133-b100-4deb3d00771e	TypeError: res.json is not a function
+20230911	21:03:41	9ca9c54a-6986-445c-8abb-a463be42f82e	TypeError: res.json is not a function
+20230911	21:13:05	20b5906a-9a58-48ad-9799-70f598438536	TypeError: res.json is not a function
+20230911	21:13:05	59afe9b0-1b89-47ca-b977-00f74ae23517	TypeError: res.json is not a function
+20230911	21:20:45	1ed8eb03-9fc5-4174-9d16-0ae7345870db	TypeError: Cannot read properties of undefined (reading 'id')
+20230911	21:20:46	5c4f161d-4b56-4a3b-837d-8189bb18a489	TypeError: Cannot read properties of undefined (reading 'id')
+20230911	21:27:26	e06b6060-f1b8-471b-8c89-c2a8b8a23bd6	TypeError: Cannot read properties of undefined (reading 'id')
+20230911	21:27:27	45f10cf8-5956-43a2-99fd-6d4f91c9fd27	TypeError: Cannot read properties of undefined (reading 'id')
+20230911	21:27:28	c40f62ba-ca41-4597-892d-a505924689ab	TypeError: Cannot read properties of undefined (reading 'id')
+20230911	21:27:28	8ce8eeb6-5341-476e-b188-361b10ca291c	TypeError: Cannot read properties of undefined (reading 'id')
+20230911	21:27:34	5a1ae6e7-97c1-412e-8816-6cf559f1a481	TypeError: Cannot read properties of undefined (reading 'id')
+20230911	21:27:34	8c1c0f77-3ced-4362-816a-fcf810943407	TypeError: Cannot read properties of undefined (reading 'id')
+20230911	21:29:04	be39d8b6-aaa6-4821-9978-bbfae9513a56	TypeError: Cannot read properties of undefined (reading 'id')
+20230911	21:30:25	d5e8bc3f-6137-4094-acc0-324b1471f411	TypeError: Cannot read properties of undefined (reading 'id')
+20230911	21:30:25	b7e475b9-0065-4a89-8069-f29ccc03bc1e	TypeError: Cannot read properties of undefined (reading 'id')
+20230911	21:30:49	d412d60e-e672-4a81-90dd-5fa3a696ce58	TypeError: Cannot read properties of undefined (reading 'id')
+20230911	21:30:56	b5c8dcf1-ec23-4648-bcf2-731adcdcf809	TypeError: Cannot read properties of undefined (reading 'id')
+20230911	21:30:56	1759f978-1334-480d-81f5-4e654cdc85de	TypeError: Cannot read properties of undefined (reading 'id')
+20230912	01:45:46	65e14aa4-7d32-4e08-818f-a47ec7de261e	ReferenceError: whitelist is not defined
+20230912	01:45:46	d7b837b3-2dfe-47c1-88bb-874296e4ce20	ReferenceError: whitelist is not defined
+20230912	01:51:17	14a06c84-4745-41a5-bbc8-1c1dc65ce9d6	TypeError: Cannot read properties of undefined (reading 'filter')
+20230912	01:53:24	3ddb07af-573c-41c6-839f-2f9dc771b87f	TypeError: Cannot read properties of undefined (reading 'filter')
+20230912	01:56:22	3c0eb849-3e3b-4bbb-bf6a-2506ed8dd58c	TypeError: Cannot read properties of undefined (reading 'filter')
